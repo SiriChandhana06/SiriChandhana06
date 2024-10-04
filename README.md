@@ -191,7 +191,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/SiriChandhana06?style=social)](https://github.com/SiriChandhana06)
 [![GitHub watchers](https://img.shields.io/github/watchers/SiriChandhana06?style=social)](https://github.com/SiriChandhana06)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiriChandhana06&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SiriChandhana06&show_icons=true&count_private=true&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast)
 
 
 ## 🏆 GitHub Trophies
