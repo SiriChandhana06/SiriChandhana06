@@ -160,15 +160,9 @@
 
 <table align="center">
   <tr>
-    <td >
+    <td align="center" width="1000">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SiriChandhana06&show_icons=true&locale=en&layout=compact&langs_count=8&theme=highcontrast&hide=html&hide_border=true" alt="SiriChandhana06" />
 </td>
-<!--     <td >
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SiriChandhana06&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td> -->
-<!--     <td >
-      <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SiriChandhana06&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td> -->
   </tr>
 <tr>
     <td align="center" width="1000">
