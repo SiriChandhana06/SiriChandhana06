@@ -169,10 +169,17 @@
 </td>
 <tr>
     <td align="center" width="1000">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiriChandhana06"&& alt="SiriChandhana06" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=SiriChandhana06&theme=highcontrast&hide_border=true"&& alt="SiriChandhana06" /></p>
 </td>
+</tr>
+
+<tr>
+  <td align="center" width="1000"><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=KenanGain&custom_title=Kenan's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" /></td>
+</tr>
 <tr>
     <td align="center" width="1000">
+    </td>
+</tr>
 </table>
   
   # My GitHub Stats
