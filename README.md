@@ -182,6 +182,9 @@
     <td align="center" width="1000">
     </td>
 </tr>
+<tr>
+  <td align="center" width="1000"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiriChandhana&theme=highcontrast&hide_border=true"/></td>
+</tr>
 </table>
   
   # My GitHub Stats
@@ -203,3 +206,10 @@
 
 ### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+<div align="center">
+  
+⭐️ From [Siri Chandhana](https://github.com/SiriChandhana06) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+
+
+</div>
