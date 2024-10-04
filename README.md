@@ -183,7 +183,7 @@
     </td>
 </tr>
 <tr>
-  <td align="center" width="1000"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiriChandhana&theme=highcontrast&hide_border=true"/></td>
+  <td align="center" width="1000"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SiriChandhana06&theme=highcontrast&hide_border=true"/></td>
 </tr>
 </table>
   
