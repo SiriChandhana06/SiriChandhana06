@@ -5,9 +5,10 @@
 <h3>Meet a dynamic and forward-thinking young Front-end developer who's blazing a trail in the realm of innovation. Their dedication to pushing the boundaries of creativity knows no bounds, as they channel their energy into leveraging technology to bring about tangible change. Fueled by curiosity and a thirst for knowledge, this visionary developer is carving a path toward a future where innovation not only thrives but also transforms lives for the better..</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SiriChandhana06&label=Profile%20views&color=0e75b6&style=flat" alt="SiriChandhana06" /> </p>
-<!-- <a href="#SiriChandhana06-title">
+<a href="#SiriChandhana06-title">
   <img src="https://github-readme-stats.vercel.app/api?username=SiriChandhana06&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="SiriChandhana06" align="right" />
-</a> -->
+</a>
+
 
 - 👋 Hi, I’m Siri Chandhana
 - 👀 I’m interested to recreate the coding
