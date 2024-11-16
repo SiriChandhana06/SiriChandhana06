@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Siri Chandhana</h1>
 <h3 align="center">Passionate for innovation, A girl trying to figure-out stuff!!</h3>
-<h3>Meet a dynamic and forward-thinking young Front-end developer who's blazing a trail in the realm of innovation. Their dedication to pushing the boundaries of creativity knows no bounds, as they channel their energy into leveraging technology to bring about tangible change. Fueled by curiosity and a thirst for knowledge, this visionary developer is carving a path toward a future where innovation not only thrives but also transforms lives for the better..</h3>
+<h3>Meet a dynamic and forward-thinking young Mern Stack developer who's blazing a trail in the realm of innovation. Their dedication to pushing the boundaries of creativity knows no bounds, as they channel their energy into leveraging technology to bring about tangible change. Fueled by curiosity and a thirst for knowledge, this visionary developer is carving a path toward a future where innovation not only thrives but also transforms lives for the better..</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=SiriChandhana06&label=Profile%20views&color=0e75b6&style=flat" alt="SiriChandhana06" /> </p>
 <a href="#SiriChandhana06-title">
@@ -15,8 +15,8 @@
 - 🌱 I’m currently pursuing B.E(CSE) in Jaya Engineering College
 - 💞️ I’m looking to collaborate with new things 
 - 📫 Reach me on sirisiri3006@gmail.com
-- 💻  Connect with me on https://www.linkedin.com/in/siri-chandhana-k-06s11s2003/
-
+- 💻 Connect with me on https://www.linkedin.com/in/siri-chandhana-k-06s11s2003/
+- 🔗 https://linktr.ee/siri_chandhana_k
 <br>
 
 <h2 align="left" id="SiriChandhana06">Favorite Tech</h2>
