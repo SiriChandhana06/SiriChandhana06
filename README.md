@@ -1,4 +1,4 @@
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 <h1 align="center">Hi 👋, I'm Siri Chandhana</h1>
 <h3 align="center">Passionate for innovation, A girl trying to figure-out stuff!!</h3>
@@ -214,3 +214,5 @@
 
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
