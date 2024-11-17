@@ -14,9 +14,9 @@
 - 👀 I’m interested to recreate the coding
 - 🌱 I’m currently pursuing B.E(CSE) in Jaya Engineering College
 - 💞️ I’m looking to collaborate with new things 
-- 📫 Reach me on sirisiri3006@gmail.com
-- 💻 Connect with me on https://www.linkedin.com/in/siri-chandhana-k-06s11s2003/
-- 🔗 https://linktr.ee/siri_chandhana_k
+- 📫 Reach me on [Email](sirisiri3006@gmail.com)
+- 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/siri-chandhana-k-06s11s2003/)
+- 🔗 [Link Tree](https://linktr.ee/siri_chandhana_k)
 <br>
 
 <h2 align="left" id="SiriChandhana06">Favorite Tech</h2>
