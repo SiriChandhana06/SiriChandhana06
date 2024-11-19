@@ -16,7 +16,7 @@
 - 💞️ I’m looking to collaborate with new things 
 - 📫 Reach me on [Email](sirisiri3006@gmail.com)
 - 💻 Connect with me on [LinkedIn](https://www.linkedin.com/in/siri-chandhana-k-06s11s2003/)
-- 🔗 [Link Tree](https://linktr.ee/siri_chandhana_k)
+- 🔗 [Connect](https://linktr.ee/siri_chandhana_k)
 <br>
 
 <h2 align="left" id="SiriChandhana06">Favorite Tech</h2>
